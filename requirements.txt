@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+python-multipart
+aiofiles
+h5py
+tensorflow==2.16.1
+scikit-learn==1.3.0
+pandas==2.0.3
+matplotlib==3.7.2
+Pillow==10.0.0
+scipy==1.11.3
+tqdm==4.66.1
+numpy==1.24.3
+joblib==1.3.2

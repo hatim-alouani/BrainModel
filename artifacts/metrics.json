@@ -1,0 +1,40 @@
+{
+  "test_loss": 0.10086129605770111,
+  "test_accuracy": 0.8304985165596008,
+  "f1_weighted": 0.8278564924082048,
+  "labels": [
+    "glioma",
+    "meningioma",
+    "notumor",
+    "pituitary"
+  ],
+  "per_class_precision": {
+    "glioma": 0.988929889298893,
+    "meningioma": 0.861764705882353,
+    "notumor": 0.875,
+    "pituitary": 0.6835205992509363
+  },
+  "per_class_recall": {
+    "glioma": 0.67,
+    "meningioma": 0.6959619952494062,
+    "notumor": 0.9607843137254902,
+    "pituitary": 0.9759358288770054
+  },
+  "per_class_f1": {
+    "glioma": 0.7988077496274218,
+    "meningioma": 0.7700394218134035,
+    "notumor": 0.9158878504672897,
+    "pituitary": 0.8039647577092511
+  },
+  "macro_precision": 0.8523037986080455,
+  "macro_recall": 0.8256705344629754,
+  "macro_f1": 0.8221749449043415,
+  "class_distribution": {
+    "glioma": 400,
+    "meningioma": 421,
+    "notumor": 510,
+    "pituitary": 374
+  },
+  "total_samples": 1705,
+  "n_classes": 4
+}
